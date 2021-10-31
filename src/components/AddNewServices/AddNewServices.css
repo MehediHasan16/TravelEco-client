@@ -1,0 +1,11 @@
+.service-style form{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    .service-style form input, textarea{
+        width: 80%;
+        margin-bottom: 15px;
+    }

@@ -1,0 +1,10 @@
+
+
+.nav-style a {
+    text-decoration: none;
+    color: gray;
+ 
+}
+.nav-style a:hover{
+    color: rgb(37, 34, 34);
+}

@@ -21,7 +21,7 @@ Our Website live link:
 
 ### `4. Our website use these tools`
 1.React js
-2.Bootstrap 5
+2.Bootstrap
 3.React-Router
 4.React Hook Form
 5.Express js

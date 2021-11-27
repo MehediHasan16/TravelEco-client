@@ -28,7 +28,7 @@ const ServiceDetail = () => {
 
 
         console.log(data);
-        fetch(`https://dark-treat-67617.herokuapp.com /addBooking`, {
+        fetch(`https://dark-treat-67617.herokuapp.com/addBooking`, {
             method: "POST",
             headers: { "content-type": "application/json" },
             body: JSON.stringify(data),
